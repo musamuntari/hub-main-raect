@@ -1,0 +1,49 @@
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ body{
+    background-image:url(pics/car\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* color: white; */
+ }
+
+ form{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    right: 20%;
+    bottom: 20%;
+    background:black;
+    color: rgb(240, 222, 122);
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px ;
+ }
+.content{
+    text-align: center;
+    margin-top: 10%;
+}
+input{
+    width: 30%;
+    padding: 1rem;
+    border-radius: 10px;
+    color: rgb(10, 0, 0);
+    background-color: rgb(247, 195, 195);
+}
+button{
+   /* width: 30%; */
+   background-color: wheat;
+   padding: 0.5em;
+   color: black;
+   border:none;
+   border-radius: 6PX;
+
+}
+h6{
+   background-color: green;
+   height: 100vh;
+   font-size: 50pxv;
+}
